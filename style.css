@@ -1,0 +1,65 @@
+.card-img-top {
+    width: 100%;
+    height: 85vh;
+    object-fit: cover;
+    }
+.bg-loja{
+    background-color:#F5B114
+    
+}
+
+.card-title, .card-text{
+    color:#F5B114
+}
+#bg-menu{
+    background-color:#621124
+}
+
+#text-menu{
+    color:#F5B114
+}
+
+.card-body{
+   background-color:#621124 ; 
+}
+
+.card{
+    margin-bottom: 20px;
+    margin-inline-start: 20px;
+    margin-left: 20px;
+    margin-right:20px;
+}
+
+.carousel-caption h2 {
+    line-height: 200px;
+    height: 330px;
+    text-align: center;
+    color:#e8d01a; 
+    text-shadow: #621124 
+  2px -2px 2px, #000 -2px 2px 2px, #000 2px 2px 2px, #000 -2px -2px 2px}   
+
+#title-index{
+    color:#e8d01a; 
+    text-shadow: #621124 
+  2px -2px 2px, #000 -2px 2px 2px, #000 2px 2px 2px, #000 -2px -2px 2px
+
+}
+
+#image-border{
+    border-radius: 100%;
+}
+
+.container{
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+      
+     
+
